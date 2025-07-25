@@ -9,7 +9,7 @@
 
 I’m a B.Tech Computer Science student at VIT, Vellore.
 
-- 🖥️ I build responsive frontend experiences with **React**, **Next.js**, and **Vite**.
+- 🖥️ I build responsive experiences with **React**, **Next.js**, and **Vite**.
 - 🎨 I design clean UI/UX using **Figma** and the **Adobe Creative Suite**.
 - 🧱 I model and texture in **Blender** and **Substance Painter**.
 - 🎬 I edit cinematic content with **After Effects** and **Premiere Pro**.
