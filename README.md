@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Parth Mital 👋</h1>
 <p align="center">
-  <i>Computer Science Student · Frontend Developer · 3D Artist · Video Editor · Music Producer</i>
+  <i>Computer Science Student · Developer · 3D Artist · Video Editor · Music Producer</i>
 </p>
 
 ---
